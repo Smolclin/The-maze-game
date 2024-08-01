@@ -10,4 +10,5 @@ Contribution can be made by anyone since it is a public project and not private
 There are different projects that are related to the maze projects such as Maze-Based Puzzles, Maze Generator with GUI and Maze Generator
 
 Picture
+
 ![image](https://github.com/user-attachments/assets/41738c09-128b-4fbd-9a2c-4b958b3c929f)
